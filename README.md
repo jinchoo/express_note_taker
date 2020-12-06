@@ -40,6 +40,7 @@
     - CSS3
     - JavaScript
     - Node JS
+    - Express JS
     - VS-Code Editor
     - GitHub Repository
     - Heroku

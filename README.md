@@ -5,7 +5,7 @@
 
 ## Introduction
 
-- As a student developer, the project was to create note taker.
+- As a student developer, the project was to create a note taker.
 
 ## Table of Contents
 
@@ -14,9 +14,9 @@
 
 ## Description:
 
-1.  It is important everyone to have user friendly note taker.
+1.  It is important for everyone to have user friendly note taker.
 2.  In this project, as a user, they should be able to write and save notes.
-    - As user should also able to delete/view notes that they have written prreviously saved notes.
+    - As user should also able to delete/view notes that they have written previously saved notes.
       - In that way user can organize thoughts and keep track of tasks that need to complete
 3.  To take notes,
 

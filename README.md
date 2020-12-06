@@ -36,12 +36,14 @@
   - DELETE `/api/notes/:id` - will receive a query parameter containing the id of a note to delete. Given each note a unique `id` when it's saved. In order to delete a note, need to read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
 
 4.  Techologies:
+    - HTML5
+    - CSS3
     - JavaScript
     - Node JS
     - VS-Code Editor
     - GitHub Repository
     - Heroku
-    * npm packages
+    - npm packages
 5.  Lincense:
     - MIT
 

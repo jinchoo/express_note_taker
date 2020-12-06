@@ -1,9 +1,11 @@
 # express_note_taker
+![GitHub license](https://img.shields.io/badge/Made%20by-%40jinchoo-orange)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Introduction
 
 - As a student developer, the project was to create note taker.
-- Deployed app: https://serene-tundra-22243.herokuapp.com/ (works on localhost:8000 when connected via Node and herokuapp)
 
 ## Table of Contents
 
@@ -49,3 +51,8 @@
     - MIT
 
 ![](./Note_taker_screenshot.png)
+
+## Repository
+- [Heroku App](https://serene-tundra-22243.herokuapp.com/ )
+- [Project Repo](https://github.com/jinchoo/express_note_taker)
+

@@ -11,7 +11,6 @@
 
 1.  Description
 2.  Techologies
-3.  License
 
 ## Description:
 
@@ -47,8 +46,7 @@
     - GitHub Repository
     - Heroku
     - npm packages
-5.  Lincense:
-    - MIT
+
 
 ![](./Note_taker_screenshot.png)
 
